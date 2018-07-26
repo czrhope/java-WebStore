@@ -14,8 +14,6 @@ import javax.servlet.http.HttpSession;
 
 import org.apache.commons.beanutils.BeanUtils;
 
-import com.czr.domain.Cart;
-import com.czr.domain.CartItem;
 import com.czr.domain.User;
 import com.czr.service.UserService;
 
